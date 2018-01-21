@@ -28,7 +28,6 @@ public class demo {
 		// 执行httpGet请求实例获取返回报文
 		CloseableHttpResponse response = null;
 		response = httpClient.execute(httpGet);
-		Header[] allHeaders = response.getAllHeaders();
 		
 		// 获取报文内容获取信息
 		HttpEntity entity = response.getEntity();
