@@ -9,4 +9,13 @@ HttpClient是Apache Jakarta Common下的子项目，用来提供高效的、最�
 04-使用代理IP
 05-设置连接超时和读取超时
 ```
+
 <br><br>
+
+### 02-Jsoup
+Jsoup 是一款Java 的HTML解析器，可直接解析某个URL地址、HTML文本内容。它提供了一套非常省力的API，可通过DOM，CSS以及类似于jQuery的操作方法来取出和操作数据。
+```
+01-入门程序
+02-解析DOM
+03-选择器筛选和获取属性
+```
