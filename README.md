@@ -36,3 +36,12 @@ Log4j是Apache的一个开源项目，通过使用Log4j，我们可以控制日�
 01-入门程序
 02-配置详解
 ```
+
+<br><br>
+
+### 05-Ehcache
+EhCache 是一个纯Java的进程内缓存框架，具有快速、精干等特点，是Hibernate中默认的CacheProvider。
+```
+01-入门程序
+02-详解和配置持久化
+```
